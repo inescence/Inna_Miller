@@ -1,11 +1,10 @@
-## Hey! Nice to see you.
-![Header](https://github.com/inescence/Inna_Miller/blob/main/assets/Inna%20Miller.png)
-
+## Hi, there!
 ## Welcome to my page!
-## I'm Inna, QA Engineer. Also, I'm a beginner in Python Automation.
+## I'm Inna, QA Automation Engineer (Python)
 
 
-languages and tools
+Languages and Tools:
+
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 [![Atlassian Jira Badge](https://img.shields.io/badge/-Atlassian%20Jira-0052CC?style=flat-square&logo=Jira%20Software&logoColor=white)](https://www.atlassian.com/software/jira)
