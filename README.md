@@ -1,6 +1,6 @@
-## Hi, there!
+## Hi there!
 ## Welcome to my page!
-## I'm Inna, QA Automation Engineer (Python)
+## I'm Inna QA Automation Engineer (Python)
 
 
 Languages and Tools:
